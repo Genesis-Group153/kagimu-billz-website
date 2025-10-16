@@ -5,6 +5,7 @@ export const siteConfig = {
     description: "Construction advisory, real estate development, and lifestyle branding.",
     tagline: "Build smart. Live better.",
     signature: "We build quietly, with precision—and let value speak.",
+    logo: "/billz-logo.png",
   },
   social: {
     instagram: "https://instagram.com/brayobillz",

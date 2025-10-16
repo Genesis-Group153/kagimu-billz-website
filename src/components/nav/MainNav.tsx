@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { Menu, X } from 'lucide-react'
 import { siteConfig } from '@/lib/siteConfig'
@@ -37,11 +38,16 @@ export function MainNav() {
           {/* Logo */}
           <Link 
             href="/" 
-            className="flex items-center space-x-2 text-brand-gold font-display font-bold text-lg sm:text-xl"
+            className="flex items-center space-x-3 text-brand-gold font-display font-bold text-lg sm:text-xl"
           >
-            <div className="w-7 h-7 sm:w-8 sm:h-8 bg-brand-gold rounded-sm flex items-center justify-center">
-              <span className="text-brand-bg font-bold text-xs sm:text-sm">KB</span>
-            </div>
+            <Image 
+              src="/billz-logo.png" 
+              alt="Kagimu Billz Logo" 
+              width={40}
+              height={40}
+              className="w-8 h-8 sm:w-10 sm:h-10 object-contain"
+              priority
+            />
             <span className="hidden sm:block">Kagimu Billz</span>
           </Link>
 
