@@ -1,5 +1,6 @@
 import { Container } from '@/components/ui/Container'
 import { Section } from '@/components/ui/Section'
+import { Card, CardContent } from '@/components/ui/Card'
 import { Pill } from '@/components/ui/Pill'
 import eventsData from '@/data/events.json'
 

@@ -1,5 +1,6 @@
 import { Container } from '@/components/ui/Container'
 import { Section } from '@/components/ui/Section'
+import { Card, CardContent, CardHeader } from '@/components/ui/Card'
 
 export const metadata = {
   title: "Portfolio",
