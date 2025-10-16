@@ -117,7 +117,7 @@ export function SiteFooter() {
           <p className="text-brand-mute text-sm mb-4">
             © {new Date().getFullYear()} Kagimu Billz. All rights reserved.
           </p>
-          <div className="flex justify-center space-x-6">
+          <div className="flex justify-center space-x-6 mb-4">
             <Link
               href="/legal#privacy"
               className="text-brand-mute hover:text-brand-gold transition-colors duration-300 text-sm"
@@ -130,6 +130,19 @@ export function SiteFooter() {
             >
               Terms
             </Link>
+          </div>
+          <div className="text-center">
+            <p className="text-brand-mute text-xs">
+              Powered by{' '}
+              <a
+                href="https://www.genesiscodeworks.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-brand-gold hover:text-brand-fg transition-colors duration-300 font-medium"
+              >
+                Genesis Codeworks
+              </a>
+            </p>
           </div>
         </div>
       </div>
