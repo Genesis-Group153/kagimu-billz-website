@@ -1,0 +1,78 @@
+[
+  {
+    "name": "BILLZ GROUP International",
+    "summary": "Umbrella identity and branding surface for all Billz entities and partnerships.",
+    "services": [
+      "Brand Strategy & Identity",
+      "Corporate Communications",
+      "Partnership Development",
+      "International Relations"
+    ],
+    "highlights": [
+      "Unified brand architecture across multiple entities",
+      "Strategic partnership facilitation",
+      "International market presence",
+      "Cross-entity resource optimization"
+    ],
+    "logo": "/images/logos/billz-group.png",
+    "images": [
+      "/images/brands/billz-group-1.jpg",
+      "/images/brands/billz-group-2.jpg"
+    ]
+  },
+  {
+    "name": "Billz Contractors Ltd",
+    "summary": "Construction advisory and contracting services with focus on quality and safety standards.",
+    "services": [
+      "Construction Advisory",
+      "Project Scoping & BOQs",
+      "Contractor Vetting",
+      "Material Guidance",
+      "Site Supervision",
+      "Quality Assurance"
+    ],
+    "highlights": [
+      "Proven track record in residential and commercial projects",
+      "Emphasis on cost optimization and material efficiency",
+      "Strong safety and quality standards",
+      "Collaborative approach with industry bodies"
+    ],
+    "logo": "/images/logos/billz-contractors.png",
+    "images": [
+      "/images/brands/billz-contractors-1.jpg",
+      "/images/brands/billz-contractors-2.jpg",
+      "/images/brands/billz-contractors-3.jpg"
+    ],
+    "verification": {
+      "registration": "[VERIFY: registration no., address]",
+      "certifications": "[VERIFY: specific certifications and licenses]"
+    }
+  },
+  {
+    "name": "Billz World Company Ltd",
+    "summary": "Brand and lifestyle web presence, content creation, and digital marketing services.",
+    "services": [
+      "Digital Marketing",
+      "Content Creation",
+      "Social Media Management",
+      "Web Development",
+      "Lifestyle Branding",
+      "Event Management"
+    ],
+    "highlights": [
+      "Multi-platform content strategy",
+      "Engaging lifestyle and educational content",
+      "Strong social media presence",
+      "Event coordination and management"
+    ],
+    "logo": "/images/logos/billz-world.png",
+    "images": [
+      "/images/brands/billz-world-1.jpg",
+      "/images/brands/billz-world-2.jpg"
+    ],
+    "verification": {
+      "ownership": "[VERIFY: ownership structure]",
+      "registration": "[VERIFY: company registration details]"
+    }
+  }
+]

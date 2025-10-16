@@ -1,0 +1,54 @@
+{
+  "instagram": [
+    {
+      "image": "/images/social/ig-1.jpg",
+      "caption": "Behind the scenes of our latest residential project - quality craftsmanship in every detail",
+      "link": "https://instagram.com/p/example1"
+    },
+    {
+      "image": "/images/social/ig-2.jpg", 
+      "caption": "Drone footage of the land evaluation process - technology meets traditional expertise",
+      "link": "https://instagram.com/p/example2"
+    },
+    {
+      "image": "/images/social/ig-3.jpg",
+      "caption": "Material selection walkthrough - choosing the right options for durability and cost",
+      "link": "https://instagram.com/p/example3"
+    },
+    {
+      "image": "/images/social/ig-4.jpg",
+      "caption": "Project milestone celebration with the team - collaboration is key to success",
+      "link": "https://instagram.com/p/example4"
+    },
+    {
+      "image": "/images/social/ig-5.jpg",
+      "caption": "Site safety briefing - protecting our team and delivering quality results",
+      "link": "https://instagram.com/p/example5"
+    },
+    {
+      "image": "/images/social/ig-6.jpg",
+      "caption": "Final walkthrough with the client - seeing their vision come to life",
+      "link": "https://instagram.com/p/example6"
+    }
+  ],
+  "youtube": [
+    {
+      "title": "How to Read a BOQ Before You Sign",
+      "link": "https://www.youtube.com/watch?v=example1",
+      "thumbnail": "/images/social/yt-1.jpg",
+      "duration": "12:34"
+    },
+    {
+      "title": "Top Site Mistakes That Blow Your Budget",
+      "link": "https://www.youtube.com/watch?v=example2", 
+      "thumbnail": "/images/social/yt-2.jpg",
+      "duration": "15:22"
+    },
+    {
+      "title": "From Raw Land to Ready Plots: Complete Process",
+      "link": "https://www.youtube.com/watch?v=example3",
+      "thumbnail": "/images/social/yt-3.jpg", 
+      "duration": "18:45"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Construction Excellence Summit 2024",
+    "date": "2024-03-15",
+    "location": "Kampala Convention Centre",
+    "type": "upcoming",
+    "description": "Panel discussion on sustainable construction practices and material optimization strategies.",
+    "role": "Speaker",
+    "link": "https://example.com/event-1"
+  },
+  {
+    "title": "Real Estate Investment Workshop",
+    "date": "2024-04-20",
+    "location": "Sheraton Hotel Kampala",
+    "type": "upcoming", 
+    "description": "Interactive workshop on land evaluation and development feasibility analysis.",
+    "role": "Lead Facilitator",
+    "link": "https://example.com/event-2"
+  },
+  {
+    "title": "Uganda Construction Industry Awards 2023",
+    "date": "2023-12-08",
+    "location": "Imperial Resort Beach Hotel",
+    "type": "past",
+    "description": "Recognized for excellence in construction advisory services and client satisfaction.",
+    "role": "Award Recipient",
+    "link": "https://example.com/event-3"
+  },
+  {
+    "title": "Digital Marketing for Construction Companies",
+    "date": "2023-10-12",
+    "location": "Makerere University Business School",
+    "type": "past",
+    "description": "Presentation on leveraging social media and content marketing for construction businesses.",
+    "role": "Guest Speaker",
+    "link": "https://example.com/event-4"
+  }
+]
