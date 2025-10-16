@@ -1,6 +1,5 @@
 import { Container } from '@/components/ui/Container'
 import { Section } from '@/components/ui/Section'
-import { Card, CardContent } from '@/components/ui/Card'
 import { Pill } from '@/components/ui/Pill'
 import { JsonLd } from '@/components/seo/JsonLd'
 import Link from 'next/link'
