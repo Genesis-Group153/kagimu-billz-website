@@ -4,6 +4,7 @@ import "./globals.css";
 import { MainNav } from "@/components/nav/MainNav";
 import { SiteFooter } from "@/components/footer/SiteFooter";
 import { ThemeProvider } from "@/components/theme/ThemeProvider";
+import { ClientBody } from "@/components/ClientBody";
 import { siteConfig } from "@/lib/siteConfig";
 
 const inter = Inter({
@@ -80,7 +81,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.variable}>
-      <body className="font-sans antialiased">
+      <ClientBody className="font-sans antialiased">
         <ThemeProvider>
           <MainNav />
           <main className="min-h-screen">
@@ -88,7 +89,7 @@ export default function RootLayout({
           </main>
           <SiteFooter />
         </ThemeProvider>
-      </body>
+      </ClientBody>
     </html>
   );
 }
