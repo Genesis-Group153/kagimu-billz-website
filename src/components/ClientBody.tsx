@@ -22,7 +22,7 @@ export function ClientBody({ children, className }: ClientBodyProps) {
   }, [])
 
   return (
-    <body className={className} suppressHydrationWarning={true}>
+    <body className={`${className} dark`} suppressHydrationWarning={true}>
       {children}
     </body>
   )
